@@ -7,5 +7,5 @@ BIoT Client for Raspberry Pi
 
 * Socket.IO Python Client
 
-        ``pip install socketio-client``
+        pip install socketio-client
 
